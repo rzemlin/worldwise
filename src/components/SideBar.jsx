@@ -10,7 +10,7 @@ function SideBar() {
 
       <p>List of Cities</p>
       <footer className={styles.footer}>
-        &copy; Copyght {new Date().getFullYear()} by RyZe Inc.
+        <p>&copy; Copyght {new Date().getFullYear()} by RyZe Inc.</p>
       </footer>
     </div>
   );
